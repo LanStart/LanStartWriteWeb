@@ -4,7 +4,7 @@
 
 https://github.com/SECTL/SecBoard
 
-项目已已交至sectl
+项目已移交至sectl
 
 项目大量采用了vibe coding
 
